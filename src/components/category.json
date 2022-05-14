@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "category":"IFSC",
+        "value":"ifsc"
+    },
+    {
+        "id":2,
+        "category":"Bank Name",
+        "value":"bank_name"
+    },
+    {
+        "id":3,
+        "category":"Branch Name",
+        "value":"branch"
+    },
+    {
+        "id":4,
+        "category":"Bank ID",
+        "value":"bank_id"
+    }
+]
